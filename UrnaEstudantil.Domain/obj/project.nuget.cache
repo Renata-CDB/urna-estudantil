@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJPJcP3on+ZUJfcTFuId75FBVnFqX6ZcqZh03WcBvdpmQKZfojXQylci283ilyw9i2d0GTHid7aR+ddUgn9/tg==",
+  "dgSpecHash": "NxCkuDotVrj+sGCzWIcgOV47GR/X+Gvc2WkWXtzxoApV4h5YQdXdgeGPWiwfEb9uOi6C02AKOdg4ZwxTmyeRwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil.API\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

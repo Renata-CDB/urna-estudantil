@@ -1,20 +1,106 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil.API\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {}
+    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil.API\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {
+    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil.API\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
         "projectName": "UrnaEstudantil.Data",
-        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil.API\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
-        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil.API\\UrnaEstudantil.Data\\obj\\",
+        "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
+        "packagesPath": "C:\\Users\\Karina Moreira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Karina Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
+                "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
+        "projectName": "UrnaEstudantil.Domain",
+        "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
+        "packagesPath": "C:\\Users\\Karina Moreira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Karina Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,9 +13,5 @@ namespace UrnaEstudantil.Domain
         public string Senha { get; set; }
         public  PerfilEnum Perfil { get; set; }
 
-
-        
-
-
     }
 }
