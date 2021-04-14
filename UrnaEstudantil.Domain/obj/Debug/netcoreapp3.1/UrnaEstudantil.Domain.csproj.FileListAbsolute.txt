@@ -1,0 +1,9 @@
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\bin\Debug\netcoreapp3.1\UrnaEstudantil.Domain.deps.json
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\bin\Debug\netcoreapp3.1\UrnaEstudantil.Domain.dll
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\bin\Debug\netcoreapp3.1\UrnaEstudantil.Domain.pdb
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\obj\Debug\netcoreapp3.1\UrnaEstudantil.Domain.csprojAssemblyReference.cache
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\obj\Debug\netcoreapp3.1\UrnaEstudantil.Domain.AssemblyInfoInputs.cache
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\obj\Debug\netcoreapp3.1\UrnaEstudantil.Domain.AssemblyInfo.cs
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\obj\Debug\netcoreapp3.1\UrnaEstudantil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\obj\Debug\netcoreapp3.1\UrnaEstudantil.Domain.dll
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Domain\obj\Debug\netcoreapp3.1\UrnaEstudantil.Domain.pdb
