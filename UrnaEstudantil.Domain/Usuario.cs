@@ -1,8 +1,9 @@
 ﻿using System;
+using UrnaEstudantil.Domain.Interface;
 
 namespace UrnaEstudantil.Domain
 {
-    public class Usuario
+    public class Usuario : IBaseEntity
     {
         public int Id { get; set; }
         public int Instituicao { get; set; }

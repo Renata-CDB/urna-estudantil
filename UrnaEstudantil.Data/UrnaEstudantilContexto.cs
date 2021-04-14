@@ -7,7 +7,7 @@ namespace UrnaEstudantil.Data
 {
     public class UrnaEstudantilContexto : DbContext
     {
-        public UrnaEstudantilContexto(DbContextOptions options) : base(options) { }
+        //public UrnaEstudantilContexto(DbContextOptions options) : base(options) { }
 
         public DbSet<Usuario> Usuarios { get; set; }
 

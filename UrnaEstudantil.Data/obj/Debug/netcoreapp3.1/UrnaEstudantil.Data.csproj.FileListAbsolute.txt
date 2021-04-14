@@ -1,0 +1,15 @@
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\bin\Debug\netcoreapp3.1\UrnaEstudantil.Data.deps.json
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\bin\Debug\netcoreapp3.1\UrnaEstudantil.Data.runtimeconfig.json
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\bin\Debug\netcoreapp3.1\UrnaEstudantil.Data.runtimeconfig.dev.json
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\bin\Debug\netcoreapp3.1\UrnaEstudantil.Data.dll
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\bin\Debug\netcoreapp3.1\UrnaEstudantil.Data.pdb
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\bin\Debug\netcoreapp3.1\UrnaEstudantil.Domain.dll
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\bin\Debug\netcoreapp3.1\UrnaEstudantil.Domain.pdb
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.csprojAssemblyReference.cache
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.AssemblyInfoInputs.cache
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.AssemblyInfo.cs
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.csproj.CoreCompileInputs.cache
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.csproj.CopyComplete
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.dll
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.pdb
+C:\Users\Karina Moreira\C#\UrnaEstudantil\urna-estudantil\UrnaEstudantil.Data\obj\Debug\netcoreapp3.1\UrnaEstudantil.Data.genruntimeconfig.cache
