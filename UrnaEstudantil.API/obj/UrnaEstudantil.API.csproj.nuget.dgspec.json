@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj": {}
+    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj": {
+    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj",
         "projectName": "UrnaEstudantil.API",
-        "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj",
-        "packagesPath": "C:\\Users\\Karina Moreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.API\\obj\\",
+        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.API\\UrnaEstudantil.API.csproj",
+        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Karina Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {
-                "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj"
+              "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj"
               }
             }
           }
@@ -72,24 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {
+    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
         "projectName": "UrnaEstudantil.Data",
-        "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
-        "packagesPath": "C:\\Users\\Karina Moreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Data\\obj\\",
+        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Data\\UrnaEstudantil.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Karina Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,8 +97,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
-                "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj"
+              "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj"
               }
             }
           }
@@ -155,24 +149,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
+    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
         "projectName": "UrnaEstudantil.Domain",
-        "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
-        "packagesPath": "C:\\Users\\Karina Moreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Karina Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -212,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

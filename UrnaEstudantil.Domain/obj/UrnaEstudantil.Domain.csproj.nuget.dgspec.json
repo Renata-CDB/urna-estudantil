@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {}
+    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
+    "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
         "projectName": "UrnaEstudantil.Domain",
-        "projectPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
-        "packagesPath": "C:\\Users\\Karina Moreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karina Moreira\\C#\\UrnaEstudantil\\urna-estudantil\\UrnaEstudantil.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\UrnaEstudantil.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\UrnaEstudantil\\UrnaEstudantil.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Karina Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

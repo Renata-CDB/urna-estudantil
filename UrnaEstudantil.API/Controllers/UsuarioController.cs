@@ -33,5 +33,34 @@ namespace UrnaEstudantil.API.Controllers
 
             return _repoUsuario.SelecionarTudo();
         }
+
+        [HttpGet("{id}")]
+        public Usuario Get(int id)
+        {
+           return _repoUsuario.Selecionar(id); 
+
+        }
+
+        [HttpPost]
+        public void Post([FromBody] Usuario usuario)
+        {
+            _repoUsuario.Incluir(usuario);
+        }
+
+        [HttpPut]
+        public Usuario Put(int id, [FromBody]Usuario usuario)
+        {
+            return _repoUsuario.Alterar(usuario);
+        }
+
+        [HttpDelete("{id}")] 
+
+        public void Delete(int id)
+        {
+            var usuario = _repoUsuario.Selecionar(id);
+
+            _repoUsuario.Excluir(usuario);
+        }
     }
+
 }
