@@ -2,17 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using UrnaEstudantil.Data.Repository.Interface;
 using UrnaEstudantil.Domain.Interface;
 
 namespace UrnaEstudantil.Data.Repository
 {
-    public class BaseRepository<T> where T : class, IBaseEntity
+    public class BaseRepository<T> : IBaseRepository<T> where T : class, IBaseEntity
     {
         protected readonly UrnaEstudantilContexto _contexto;
 
-        public BaseRepository()
+        public BaseRepository(UrnaEstudantilContexto contexto)
         {
-            _contexto = new UrnaEstudantilContexto();
+            _contexto = contexto;
         }
 
         public virtual List<T> SelecionarTudo()

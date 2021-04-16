@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -10,6 +11,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UrnaEstudantil.Data;
+using UrnaEstudantil.Data.Repository;
+using UrnaEstudantil.Data.Repository.Interface;
 
 namespace UrnaEstudantil.API
 {
@@ -26,6 +30,11 @@ namespace UrnaEstudantil.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddDbContext<UrnaEstudantilContexto>(
+                options => options.UseSqlServer(Configuration.GetConnectionString("SQL-Karina")));
+
+            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using UrnaEstudantil.Data.Repository;
+using UrnaEstudantil.Data.Repository.Interface;
 using UrnaEstudantil.Domain;
 
 namespace UrnaEstudantil.API.Controllers
@@ -14,11 +15,11 @@ namespace UrnaEstudantil.API.Controllers
     public class UsuarioController : ControllerBase
     {
         // Incluir interface
-        private readonly UsuarioRepository _repoUsuario;
+        private readonly IUsuarioRepository _repoUsuario;
 
-        public UsuarioController()
+        public UsuarioController(IUsuarioRepository repoUsuario)
         {
-            _repoUsuario = new UsuarioRepository();
+            _repoUsuario = repoUsuario;
         }
 
         // Incluir IActionResult e validações
@@ -54,7 +55,6 @@ namespace UrnaEstudantil.API.Controllers
         }
 
         [HttpDelete("{id}")] 
-
         public void Delete(int id)
         {
             var usuario = _repoUsuario.Selecionar(id);

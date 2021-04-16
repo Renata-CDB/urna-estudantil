@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using UrnaEstudantil.Data.Repository.Interface;
 using UrnaEstudantil.Domain;
 
 namespace UrnaEstudantil.Data.Repository
 {
-    public class UsuarioRepository : BaseRepository<Usuario>
+    public class UsuarioRepository : BaseRepository<Usuario>, IUsuarioRepository
     {
-        //public UsuarioRepository(UrnaEstudantilContexto contexto) : base(contexto) { }
+        public UsuarioRepository(UrnaEstudantilContexto contexto) : base(contexto) { }
 
         public List<Usuario> SelecionarPorNome(string nome)
         {
